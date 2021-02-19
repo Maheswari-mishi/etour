@@ -1,0 +1,368 @@
+*{
+	box-sizing: border-box!important;
+}
+body{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.topnav{
+	margin-top: 10px;
+}
+.color a{
+	color: black;
+}
+.banner{
+	background-image: url(bann.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+  	background-size: cover;
+  	max-width: 100%;
+  	padding: 150px 80px;
+}
+.banner p{
+	color: white;
+	font-size: 30px;
+}
+.banner h1{
+	color: white;
+	font-size: 50px;
+}
+.banner2{
+	background-image: url(bann2.jpeg);
+	background-repeat: no-repeat;
+	background-position: top;
+  	background-size: cover;
+  	max-width: 100%;
+  	height: 500px;
+  
+}
+.div1{
+	width: 50%;
+	position: absolute;
+	margin-left: 400px;
+	padding: 50px 10px;
+}
+.div2{
+	width: 50%;
+	position: absolute;
+	padding: 110px 10px;
+}
+.text1{
+	background-color: white;
+	padding: 25px 25px;
+}
+.bo{
+	font-weight: bold;
+}
+.know{
+	text-align: right;
+	margin-bottom: -10px;
+	margin-right: -10px;
+
+}
+.know1{
+	background-color: #65eb65;
+	color: white;	
+	border: 0px;
+	padding: 5px;
+}
+.lizard img{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.img1{
+	background-image: url(garden.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+  	background-size: cover;
+  	height: 33.33%;
+  	max-width: 100%;
+  	padding: 150px 30px 10px 30px;
+}
+.img1 p{
+	color: white;
+}
+.img2{
+	background-image: url(horse.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 33.33%;
+  	max-width: 100%;
+  	padding: 250px 30px 30px 30px;
+  	margin-top: 20px;
+}
+.img2 p{
+	color: white;
+}
+.img3{
+	background-image: url(bluestone.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 33.33%;
+  	max-width: 100%;
+  	padding: 250px 30px 30px 30px;
+  	margin-top: 20px;
+  	margin-bottom: 10px;
+}
+.img3 p{
+	color: white;
+}
+.img4{
+	background-image: url(beach.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 50%;
+  	max-width: 100%;
+  	max-height: 100%;
+  	padding: 450px 30px 30px 30px;
+}
+.img4 p{
+	color: white;
+}
+.img5{
+	background-image: url(flamingo.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 50%;
+  	max-width: 100%;
+  	max-height: 100%;
+  	padding: 450px 30px 30px 30px;
+  	margin-top: 40px;
+}
+.img5 p{
+	color: white;
+}
+
+.img6{
+	background-image: url(cloud.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 33.33%;
+  	max-width: 100%;
+  	max-height: 100%;
+  	padding: 250px 30px 30px 30px;
+}
+.img6 p{
+	color: white;
+}
+.img7{
+	background-image: url(lake.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 33.33%;
+  	max-width: 100%;
+  	max-height: 100%;
+  	padding: 250px 30px 30px 30px;
+  	margin-top: 20px;
+}
+.img7 p{
+	color: white;
+}
+.img8{
+	background-image: url(beachride.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 33.33%;
+  	max-width: 100%;
+  	max-height: 100%;
+  	padding: 250px 30px 30px 30px;
+  	margin-top: 20px;
+  	margin-bottom: 10px;
+}
+.img8 p{
+	color: white;
+}
+.banner3{
+	background-image: url(coco.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	max-width: 100%;
+  	margin-top: 100px;
+  	max-height: 100%;
+  	padding-bottom: 150px;
+}
+.book{
+	padding: 200px 100px 10px 100px;
+}
+.book h1{
+	color: white;
+}
+.bann3{
+	padding: 0 100px 100px 100px;
+}
+.banner3{
+	background-image: url(coco.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	max-width: 100%;
+  	margin-top: 100px;
+  	max-height: 100%;
+  	padding-bottom: 150px;
+}
+.book{
+	padding: 200px 100px 10px 100px;
+}
+.book h1{
+	color: white;
+}
+.bann3{
+	padding: 0 100px 100px 100px;
+}
+.bac{
+	background-color: brown;
+	opacity: 0.80;
+	padding: 30px 5px;
+	text-align: center;
+}
+.scuba1,.guide1,.star1{
+	height: 50px;
+	text-align: center;
+}
+.scuba ,.guide,.star{
+	color: white;
+	padding: 
+}
+.lorem{
+	padding: 100px 20px 10px 20px;
+}
+.lorem h1{
+	padding: 20px 0px;
+}
+.see{
+	background-color:#9bcd52;
+}
+.female1{
+	height: 100px;
+}
+.fmale{
+	padding: 100px 50px 10px 50px;
+}
+.biodata{
+	display: flex;
+	flex-wrap: wrap;
+	padding: 30px 10px;
+}
+.quote{
+	width: 10%;
+	padding: 70px 0;
+}
+.data{
+	width: 90%;
+}
+.bcolor{
+	background-color: #9bcd52;
+}
+.calender{
+	font-size: 30px;
+	color: white;
+	padding-left: 150px;
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+.booknow{
+	padding-top: 80px;
+	padding-left: 100px;
+	padding-bottom: 50px;
+}
+.now{
+	font-size: 30px;
+	color: white;
+}
+.dates{
+	padding-top: 120px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+}
+.footer{
+	background-color: #607c38;
+
+}
+.sec1,.sec2,.sec3,.sec4,.sec5{
+	color: white;
+	padding: 100px 20px 60px 20px;
+}
+.footnav{
+	color: #9bcd52;
+}
+.sec1,.sec2,.sec3,.sec4,.sec5{
+	padding: 10px;
+	text-align: center;
+}
+
+@media only screen and (max-width: 576px){
+.phone{
+	display: none;
+}
+.logo{
+	text-align: center;
+}
+.symbols{
+	display: center;
+}
+.banner2{
+	width: 100%;
+	height: 100%;
+}
+.div1{
+	position: relative;
+	width: 100%;
+	margin: 0px 0;
+	padding: 10px 0;
+}
+.div2{
+	position: relative;
+	width: 100%;
+	margin: 0px 0;
+	padding: 10px 0;
+}
+.book{
+	padding: 0;
+	margin: 0;
+}
+.lorem{
+	padding: 20px;
+}
+.fmale{
+	padding: 20px;
+}
+.calender{
+	padding: 30px 0 0px 30px;
+}
+.booknow,.dates{
+	padding: 30px 0 30px 30px;
+	text-align: center;
+}
+
+
+
+}
+@media only screen and (max-width: 768px){	
+.phone{
+	display: none;
+}
+.logo{
+	text-align: center;
+}
+.symbols{
+	display: center;
+}
+.banner2{
+	width: 100%;
+	height: 100%;
+}
+.div1{
+	position: relative;
+	width: 100%;
+	margin: 0px 0;
+	padding: 10px 0;
+}
+.div2{
+	position: relative;
+	width: 100%;
+	margin: 0px 0;
+	padding: 10px 0;
+}
+
+
+}

@@ -1,0 +1,291 @@
+*{
+	box-sizing: border-box!important;
+}
+body{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.color a{
+	color: black;
+}
+.topnav{
+	margin-top: 20px;
+}
+.banner{
+	background-image: url(boatride.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+  	background-size: cover;
+  	max-width: 100%;
+  	padding: 150px 80px;
+  	color: white;
+}
+.lorem{
+	padding: 0 150px 0 150px;
+}
+.lgreen{
+	background-color: #9fcf59;
+	padding: 25px 35px;
+	color: white;
+}
+.dgreen{
+	background-color: #4b5b34;
+	padding: 25px 35px;
+	color: white;
+}
+.lgreen h2,.dgreen h2{
+	padding-bottom: 20px;
+}
+.bottom{
+	padding-bottom: 70px;
+	}
+.banner2{
+	background-image: url(banner2.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	max-width: 100%;
+  	max-height: 100%;
+}
+.get{
+	padding: 100px 100px 10px 100px;
+}
+.get h1{
+	color: white;
+}
+.bann2{
+	padding: 0 100px 100px 100px;
+}
+.bac{
+	background-color: brown;
+	opacity: 0.80;
+	padding: 40px 10px;
+	text-align: center;
+	margin-bottom: 40px;
+}
+.search1,.choose1,.phone2{
+	height: 50px;
+	text-align: center;
+}
+.search ,.choose,.phone1{
+	color: white;
+	padding: 20px;
+}
+.bu{
+	background-color: #9fcf59;
+	padding: 10px 30px;
+	color: white;
+}
+.button{
+	margin-top: -70px;
+}
+.padd{
+	padding-top: 10px;
+}
+.img1{
+	background-image: url(img1.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-position: center;
+  	max-width: 100%;
+  	max-height: 100%;
+  	padding: 80px 30px 30px 30px;
+  	
+}
+.img1 h2,.img1 p{
+	color: white;
+}
+
+.img2{
+	background-image: url(img2.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-position: center;
+  	max-width: 100%;
+  	max-height: 100%;
+  	padding: 192px 30px 30px 30px;
+  	
+}
+.img2 h2,.img2 p{
+	color: white;
+}
+.img3{
+	background-image: url(img3.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-position: center;
+  	max-width: 100%;
+  	max-height: 100%;
+  	padding: 154px 30px 30px 30px;
+  	
+}
+.img3 h2,.img3 p{
+	color: white;
+}
+.img4{
+	background-image: url(img4.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-position: center;
+  	max-width: 100%;
+  	max-height: 100%;
+  	padding: 192px 30px 30px 30px;
+  	
+}
+.img4 h2,.img4 p{
+	color: white;
+}
+.img5{
+	background-image: url(img5.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-position: center;
+  	max-width: 100%;
+  	max-height: 100%;
+  	padding: 154px 30px 30px 30px;
+  	
+}
+.img5 h2,.img5 p{
+	color: white;
+}
+.img6{
+	background-image: url(img6.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-position: center;
+  	max-width: 100%;
+  	max-height: 100%;
+  	padding: 192px 30px 30px 30px;
+  	
+}
+.img6 h2,.img6 p{
+	color: white;
+}
+.ip{
+	padding: 1px;
+}
+.mb{
+	margin-bottom: 60px;
+}
+.bcolor{
+	background-color: #f0efed;
+}
+.imp{
+	padding: 50px 50px;
+
+}
+.photo{
+	height: 120px;
+	width: 120px;
+	padding: 10px;
+}
+.rimg,.rimg1{
+	padding: 20px;
+}
+.fantastic{
+	background-color: white;
+	margin-bottom: 20px;
+	padding: 20px 15px;
+}
+.quote{
+	font-size: 30px;
+}
+.colo{
+	color: #9fcf59;
+}
+.trip{
+	padding: 20px 0px;
+}
+.trip1{
+	position: absolute;
+}
+.trip2{
+	position: absolute;
+	margin-left: 25%;
+}
+.tadvisor1{
+    background-color: #9fcf59;
+    border-radius: 50%;
+    border: 1px solid #9fcf59;
+    font-size: 23px;
+    padding: 5px;
+    margin-left: 5px;
+}
+.position{
+	position: absolute;
+}
+.position1{
+	position: absolute;
+	margin-left: 40%;
+}
+.review1{
+	position: absolute;
+}
+.review2{
+	position: absolute;
+	margin-left: 55%;
+}
+.footer{
+	background-color: #607c38;
+
+}
+.sec1,.sec2,.sec3,.sec4,.sec5{
+	color: white;
+	padding: 100px 20px 60px 20px;
+}
+.footnav{
+	color: #9bcd52;
+}
+@media only screen and (max-width: 576px){
+.phone{
+	display: none;
+}
+.logo{
+	text-align: center;
+}
+.lorem{
+	padding: 10px;
+}
+.bac{
+	text-align: center;
+}
+.search,.choose,.phone{
+
+}
+.position,.position1,.review1,.review2{
+	display: none;
+}
+.trip2{
+	margin-left: 30%;
+}
+.sec1,.sec2,.sec3,.sec4,.sec5{
+	padding: 10px;
+	text-align: center;
+}
+}
+@media only screen and (max-width: 768px){
+.phone{
+	display: none;
+}
+.logo{
+	text-align: center;
+}
+.lorem{
+	padding: 10px;
+}
+.bac{
+	text-align: center;
+}
+.search,.choose,.phone{
+
+}
+.position,.position1,.review1,.review2{
+	display: none;
+}
+.trip2{
+	margin-left: 30%;
+}
+.sec1,.sec2,.sec3,.sec4,.sec5{
+	padding: 10px;
+	text-align: center;
+}
+}
