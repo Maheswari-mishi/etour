@@ -252,7 +252,7 @@ body{
 
 }
 .position,.position1,.review1,.review2{
-	display: none;
+	display: relative;
 }
 .trip2{
 	margin-left: 30%;
@@ -265,7 +265,7 @@ body{
 	padding: 30px;
 	}
 .get h1{
-text-align: center;
+	text-align: center;
 }
 }
 @media only screen and (max-width: 768px){
@@ -285,7 +285,7 @@ text-align: center;
 
 }
 .position,.position1,.review1,.review2{
-	display: block;
+	display: relative;
 }
 .trip2{
 	margin-left: 30%;
@@ -294,4 +294,11 @@ text-align: center;
 	padding: 10px;
 	text-align: center;
 }
+.get{
+	padding: 30px;
+	}
+.get h1{
+	text-align: center;
+}
+
 }
